@@ -1,0 +1,66 @@
+{
+ "mae": 1.5777451917529106,
+ "mse": 0.00038829047116450965,
+ "size": 2804,
+ "cases": [
+  {
+   "hours": 2,
+   "attendance": 60,
+   "previous": 50,
+   "predicted": 43.06,
+   "reference": 43.0
+  },
+  {
+   "hours": 5,
+   "attendance": 75,
+   "previous": 60,
+   "predicted": 59.87,
+   "reference": 60.0
+  },
+  {
+   "hours": 8,
+   "attendance": 90,
+   "previous": 80,
+   "predicted": 81.7,
+   "reference": 82.0
+  },
+  {
+   "hours": 1,
+   "attendance": 50,
+   "previous": 40,
+   "predicted": 33.29,
+   "reference": 33.0
+  },
+  {
+   "hours": 10,
+   "attendance": 100,
+   "previous": 100,
+   "predicted": 99.51,
+   "reference": 100
+  },
+  {
+   "hours": 0,
+   "attendance": 40,
+   "previous": 20,
+   "predicted": 19.22,
+   "reference": 18.0
+  },
+  {
+   "hours": 6,
+   "attendance": 85,
+   "previous": 70,
+   "predicted": 69.79,
+   "reference": 70.0
+  },
+  {
+   "hours": 4,
+   "attendance": 70,
+   "previous": 55,
+   "predicted": 53.4,
+   "reference": 53.5
+  }
+ ],
+ "epochs": 60,
+ "train": 4800,
+ "test": 1200
+}

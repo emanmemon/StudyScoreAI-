@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.StudyScoreAI" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
